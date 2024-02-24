@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Meta Quest 2",
+        "description": "Auriculares avanzados de realidad virtual todo en uno",
+        "price": 4994,
+        "image": "https://m.media-amazon.com/images/I/61tE7IcuLmL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+        "name": "Logitech M170 Mouse",
+        "description": "Mouse Inalámbrico, con tecnología 2,4 GHz",
+        "price": 199,
+        "image": "https://m.media-amazon.com/images/I/5155dYij5vL._AC_SX679_.jpg"
+    },
+    {
+        "name": "Lenovo IdeaPad Slim 3",
+        "description": "Chromebook 14 pulgadas | Intel Core i3 N305 8GB RAM 256GB",
+        "price": 10499,
+        "image": "https://m.media-amazon.com/images/I/71+mRQcU87L._AC_SX679_.jpg"
+    },
+    {
+        "name": "Smart TV Pantalla Television 43 Pulgadas",
+        "description": "WEYON Android TV, Full HD 60Hz, con WiFi, 3 HDMI/2 USB/RCA 43WDSNMX",
+        "price": 3689,
+        "image": "https://m.media-amazon.com/images/I/71kM0FS7mjL._AC_SX679_.jpg"
+    },
+    {
+        "name": "MCSWKEY Cubiera de Lavadora",
+        "description": "Extra Grande Funda para Lavadora Protector Impermeable, Anti-UV y Resistencia al Polvo",
+        "price": 223,
+        "image": "https://m.media-amazon.com/images/I/61AoLrKMzwS._AC_SX679_.jpg"
+    }
+]
